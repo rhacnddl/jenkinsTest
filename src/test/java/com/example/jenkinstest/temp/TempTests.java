@@ -11,6 +11,7 @@ public class TempTests {
     void testV1(){
 
         List<String> list = new ArrayList<>();
+        System.out.println("hello new world");
 
         //String str = list.get(0);
 
