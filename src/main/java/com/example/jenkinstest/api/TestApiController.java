@@ -14,7 +14,7 @@ public class TestApiController {
 
     @GetMapping("/hello")
     public HelloResponse getHello(){
-        return new HelloResponse(2L, "Hello World V12");
+        return new HelloResponse(2L, "Hello World V13");
     }
 
     @Getter
